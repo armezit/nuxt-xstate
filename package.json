@@ -1,9 +1,9 @@
 {
-  "name": "nuxt-xstate",
+  "name": "nuxt-xstate5",
   "version": "0.6.2",
   "license": "MIT",
   "type": "module",
-  "repository": "Lexpeartha/nuxt-xstate",
+  "repository": "armezit/nuxt-xstate",
   "description": "XState integration for Nuxt",
   "author": "Lexpeartha",
   "keywords": [
@@ -47,9 +47,9 @@
   "dependencies": {
     "@nuxt/kit": "^3.6.5",
     "@xstate/fsm": "^2.1.0",
-    "@xstate/vue": "^2.0.0",
+    "@xstate/vue": "^3.1.2",
     "unimport": "^3.0.14",
-    "xstate": "^4.38.3",
+    "xstate": "^5.17.4",
     "xstate-vue2": "^0.3.2"
   },
   "devDependencies": {
